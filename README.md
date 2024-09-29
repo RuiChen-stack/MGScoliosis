@@ -44,5 +44,5 @@ Run 'eval.sh' to validate.
 ```
 MODEL=MGScoliosis 
 python3 validate.py /path/to/dataset --model $MODEL \
-  --checkpoint 'checkpoint.pth' -b 64
+  --checkpoint /path/to/model -b 64
 ```
