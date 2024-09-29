@@ -41,3 +41,8 @@ CUDA_VISIBLE_DEVICES=0 bash distributed_train.sh 1 /path/to/dataset \
 
 ### Validate
 Run 'eval.sh' to validate.
+```
+MODEL=MGScoliosis 
+python3 validate.py /path/to/dataset --model $MODEL \
+  --checkpoint 'checkpoint.pth' -b 64
+```
