@@ -25,3 +25,8 @@ Data prepare: The dataset should follow the ImageNet folder structure.Each image
 │  ├── ......
 ```
 
+### Train
+run 'train.sh' to train the model.
+
+### Validate
+run 'eval.sh' to validate.
