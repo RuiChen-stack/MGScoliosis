@@ -32,6 +32,12 @@ Data prepare: The dataset should follow the ImageNet folder structure.Each image
 
 ### Train
 run 'train.sh' to train the model.
+```
+MODEL=MGScoliosis 
+DROP_PATH=0.2 
+CUDA_VISIBLE_DEVICES=0 bash distributed_train.sh 1 /path/to/dataset \
+	  --model $MODEL -b 56 --lr 3e-4 --drop-path $DROP_PATH
+```
 
 ### Validate
 run 'eval.sh' to validate.
