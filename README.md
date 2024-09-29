@@ -2,7 +2,7 @@
 MGScoliosis: Multi-Grained Scoliosis Detection with Joint Ordinal Regression from Natural Image
 
 ### Overview
-<img src="figures/model(b).png" style="zoom:45%;" />
+<img src="figures/model(b).png" style="zoom:70%;" />
 
 ### Datasets
 Data prepare: The dataset should follow the ImageNet folder structure.Each image should be named like 'MT-18-35.jpg', where 18 represents the Cobb angle size.
