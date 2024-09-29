@@ -24,7 +24,7 @@ Data prepare: The dataset should follow the ImageNet folder structure. Each imag
 │  │   ├── ......
 │  ├── ......
 ```
-### 3.Requirement
+### Requirement
 ```
 1. Pytorch >= 1.7
 2. timm == 0.4.12
