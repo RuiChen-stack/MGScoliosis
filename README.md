@@ -1,5 +1,5 @@
 # MGScoliosis
-This repo is the official implementation of "MGScoliosis: Multi-Grained Scoliosis Detection with Joint Ordinal Regression from Natural Image".
+This repo is the official implementation of "MGScoliosis: Multi-Grained Scoliosis Detection with Joint Ordinal Regression from Natural Image" accepted by the ECCV 2022 conference.
 
 
 ### Overview
