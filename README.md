@@ -1,5 +1,5 @@
 # MGScoliosis
-This repo is the official implementation of paper "MGScoliosis: Multi-Grained Scoliosis Detection with Joint Ordinal Regression from Natural Image" accepted by Alexandria Engineering Journal.
+This repo is the official implementation of paper ["MGScoliosis: Multi-Grained Scoliosis Detection with Joint Ordinal Regression from Natural Image"](https://www.sciencedirect.com/science/article/pii/S1110016824012225) accepted by Alexandria Engineering Journal.
 
 
 ### Overview
