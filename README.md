@@ -46,3 +46,18 @@ MODEL=MGScoliosis
 python3 validate.py /path/to/dataset --model $MODEL \
   --checkpoint /path/to/model -b 64
 ```
+
+### Citation
+```
+@article{ZHU2025329,
+title = {MGScoliosis: Multi-grained scoliosis detection with joint ordinal regression from natural image},
+journal = {Alexandria Engineering Journal},
+volume = {111},
+pages = {329-340},
+year = {2025},
+issn = {1110-0168},
+doi = {https://doi.org/10.1016/j.aej.2024.10.066},
+url = {https://www.sciencedirect.com/science/article/pii/S1110016824012225},
+author = {Xiaojia Zhu and Rui Chen and Zhiwen Shao and Ming Zhang and Yuhu Dai and Wenzhi Zhang and Chuandong Lang}
+}
+```
