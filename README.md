@@ -1,5 +1,5 @@
 # MGScoliosis
-This repo is the official implementation of paper ["MGScoliosis: Multi-Grained Scoliosis Detection with Joint Ordinal Regression from Natural Image"](https://www.sciencedirect.com/science/article/pii/S1110016824012225) accepted by Alexandria Engineering Journal.
+This repository is the official implementation of paper ["MGScoliosis: Multi-Grained Scoliosis Detection with Joint Ordinal Regression from Natural Image"](https://doi.org/10.1016/j.aej.2024.10.066) accepted by Alexandria Engineering Journal.
 
 
 ### Overview
@@ -50,15 +50,12 @@ python3 validate.py /path/to/dataset --model $MODEL \
 
 ### Citation
 ```
-@article{ZHU2025329,
+@article{zhu2025mgscoliosis,
 title = {MGScoliosis: Multi-grained scoliosis detection with joint ordinal regression from natural image},
 journal = {Alexandria Engineering Journal},
 volume = {111},
 pages = {329-340},
 year = {2025},
-issn = {1110-0168},
-doi = {https://doi.org/10.1016/j.aej.2024.10.066},
-url = {https://www.sciencedirect.com/science/article/pii/S1110016824012225},
 author = {Xiaojia Zhu and Rui Chen and Zhiwen Shao and Ming Zhang and Yuhu Dai and Wenzhi Zhang and Chuandong Lang}
 }
 ```
